@@ -1,3 +1,4 @@
 test
 new line
 redoing adding new line
+commit record the status in Index
