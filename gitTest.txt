@@ -2,3 +2,4 @@ test
 new line
 redoing adding new line
 commit record the status in Index
+Pull retrieve the contents from remote repository
